@@ -1,0 +1,22 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.2-0*%
+%TF.CreationDate,2024-01-11T17:10:39-05:00*%
+%TF.ProjectId,SolarCharger_v2,536f6c61-7243-4686-9172-6765725f7632,2*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.2-0) date 2024-01-11 17:10:39*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,3.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X151547600Y-66828125D03*
+X151547600Y-72828125D03*
+X156247600Y-69828125D03*
+%TD*%
+M02*
