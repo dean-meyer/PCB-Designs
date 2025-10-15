@@ -1,2 +1,2 @@
 # PCB-Designs
-PCB design projects from physics courses and research.
+Various PCBs for research sensors and other uses.
