@@ -1,0 +1,15 @@
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-F_Cu.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-B_Cu.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-F_Paste.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-B_Paste.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-F_Silkscreen.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-B_Silkscreen.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-F_Mask.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-B_Mask.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-Edge_Cuts.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-F_Courtyard.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-B_Courtyard.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-F_Fab.gbr'.
+Plotted to '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-B_Fab.gbr'.
+Created Gerber job file '/Users/dean/Documents/KiCad/Summer2023/Turbidity_v13/Turbidity_v13-job.gbrjob'.
+Info: Done.
