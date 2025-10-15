@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ES1A")(type "KiCad")(uri "/Users/dean/Downloads/LIB_ES1A/ES1A/KiCad/ES1A.kicad_sym")(options "")(descr ""))
+  (lib (name "Project")(type "KiCad")(uri "${KIPRJMOD}/Project.kicad_sym")(options "")(descr ""))
+)
